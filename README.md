@@ -4,6 +4,8 @@ PointPillarTensorRT-ROS is an implementation of the PointPillar object detection
 # Installation
 To install PointPillarTensorRT-ROS, follow these steps:
 ```
+sudo apt-get install ros-noetic-jsk-rviz-plugins
+sudo apt-get install git-lfs && git lfs install
 git clone https://github.com/wayyeah/PointPillarTensorRT-ROS.git
 cd PointPillarTensorRT-ROS
 bash compile.sh
