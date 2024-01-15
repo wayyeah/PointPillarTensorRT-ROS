@@ -23,6 +23,7 @@ roscore
 rosbag play kitti_2011_09_26_drive_0009_synced.bag
 ```
 download link: https://pan.baidu.com/s/14lB2Djw6iiivfuhaINgkyA?pwd=asr8  key: asr8
+
 3、run 
 ```
 rosrun pointpillar pointpillar
