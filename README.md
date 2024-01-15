@@ -32,7 +32,11 @@ rosrun pointpillar pointpillar
 rviz
 ```
 <img width="556" alt="3" src="https://github.com/wayyeah/PointPillarTensorRT-ROS/assets/53206282/1b2d7259-2960-4279-8625-03c74d1409e9">
-![5](https://github.com/wayyeah/PointPillarTensorRT-ROS/assets/53206282/a4f2fa32-b752-4600-8f77-a96d127fd87a)
-![4](https://github.com/wayyeah/PointPillarTensorRT-ROS/assets/53206282/a19cdbc1-e678-498c-84bf-4327f9351efb)
+![4](https://github.com/wayyeah/PointPillarTensorRT-ROS/assets/53206282/fba096f5-dbd0-4583-a9b7-39567eab6c32)
+![5](https://github.com/wayyeah/PointPillarTensorRT-ROS/assets/53206282/ffa8366d-307e-42a3-88ef-ef9b8e182f13)
+
 # Result
-![Uploading 6.png…]()
+![6](https://github.com/wayyeah/PointPillarTensorRT-ROS/assets/53206282/007c62e0-e007-4311-8a82-9542637d01d0)
+
+
+
